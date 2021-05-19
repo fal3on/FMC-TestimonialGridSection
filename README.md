@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](#)
-- Live Site URL: [Live site](#)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-using-flexbox-css-grid-mEZaW32G4)
+- Live Site URL: [Live site](https://fmc-testimonial-grid-section.vercel.app/)
 
 ## My process
 
